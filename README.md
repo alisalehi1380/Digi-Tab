@@ -1,30 +1,7 @@
-<h1>Digi Tab WooCommerce</h1>
 
-<h3>Introducing the Digital Tab plugin</h3>
-
-The exceptional plugin "Digital Tab" is a unique initiative in the world of WooCommerce designed to enhance the complete customer experience. This plugin intelligently organizes the latest orders by presenting a unique order dashboard, providing a user-friendly layout that allows customers to view precise order statuses and details with unique features.
-
-"Digital Tab" with its live notification feature allows customers to be instantly informed of any changes in their order status. This feature accompanies customers throughout the delivery process, providing an extraordinary experience that is not as comprehensive and efficient in similar plugins.
-
-Moreover, "Digital Tab" visually displays information in a beautiful and engaging manner based on visual design principles. This plugin is not only a practical and efficient tool but is also recognized as an exceptional experience in the world of WooCommerce.
-
-With this unique plugin, your business can not only benefit from greater customer satisfaction but also excel as a leader in providing a better shopping experience, surpassing competitors.
-
-Features of the Digital Tab Plugin:
-
-Compatibility with any WooCommerce theme
-Ability to sort orders
-Ability to display site details systematically and organized
-Ability to make changes and edits to orders quickly and easily
-Ability to deactivate any of the order statuses:
-You can easily deactivate any order status that you do not need on your site.
-
-Complete settings panel:
-This feature allows you to customize all aspects of the plugin according to your needs and preferences. In this panel, you can adjust settings related to (order page appearance), (order statuses), capabilities, and other features of the plugin.
-
-By using this plugin, customers will have a better experience of your store, leading to increased satisfaction and sales.
-
-<br><br>
+<div align="center">
+  <img src="https://github.com/Parsa-mrz/Digi-Tab/assets/111766206/9f38b601-4d9f-4018-a247-877933e65782">
+</div>
 
 <h1>افزونه دیجی تب</h1>
 <p style="margin-right:0px;text-align:center;"><span style="background-color:hsl(0,75%,60%);color:hsl(0,0%,100%);"><strong>&nbsp;اولین و تنها افزونه نمایش لیست سفارشات ووکامرس&nbsp;</strong></span></p>
@@ -50,4 +27,35 @@ By using this plugin, customers will have a better experience of your store, lea
 </ul>
 <p style="margin-right:40px;">این ویژگی به شما این امکان را میدهد تمام جنبه های افزونه را به صورت دلخواه و سفارشی تنظیم کنید در این پنل شما میتوانید تنظیمات مربوط به (ظاهر صفحه سفارشات) (وضعیت های سفارش) قابلیت ها و ویژگی های دیگر افزونه را انجام دهید.</p>
 <p style="text-align:justify;"><span style="background-color:hsl(0,75%,60%);color:rgb(241,242,242);">با استفاده از این افزونه، مشتریان تجربه بهتری از فروشگاه شما خواهند داشت و باعث افزایش رضایتمندی و فروش شما خواهد شد.</span></p>
-<img src="https://github.com/Parsa-mrz/Digi-Tab/assets/91504922/9436afc8-f9e9-4934-8bf0-56bf41e71b5e">
+
+<div align="center">
+  <img src="https://github.com/Parsa-mrz/Digi-Tab/assets/111766206/81699247-0637-41ec-bf95-2dbb89214789">
+</div>
+
+<br><br>
+
+<h1>Digi Tab WooCommerce</h1>
+
+<h3>Introducing the Digital Tab plugin</h3>
+
+The exceptional plugin "Digital Tab" is a unique initiative in the world of WooCommerce designed to enhance the complete customer experience. This plugin intelligently organizes the latest orders by presenting a unique order dashboard, providing a user-friendly layout that allows customers to view precise order statuses and details with unique features.
+
+"Digital Tab" with its live notification feature allows customers to be instantly informed of any changes in their order status. This feature accompanies customers throughout the delivery process, providing an extraordinary experience that is not as comprehensive and efficient in similar plugins.
+
+Moreover, the "Digital Tab" visually displays information beautifully and engagingly based on visual design principles. This plugin is not only a practical and efficient tool but is also recognized as an exceptional experience in the world of WooCommerce.
+
+With this unique plugin, your business can not only benefit from greater customer satisfaction but also excel as a leader in providing a better shopping experience, surpassing competitors.
+
+Features of the Digital Tab Plugin:
+
+Compatibility with any WooCommerce theme
+Ability to sort orders
+Ability to display site details systematically and organized
+Ability to make changes and edits to orders quickly and easily
+Ability to deactivate any of the order statuses:
+You can easily deactivate any order status that you do not need on your site.
+
+Complete settings panel:
+This feature allows you to customize all aspects of the plugin according to your needs and preferences. In this panel, you can adjust settings related to (order page appearance), (order statuses), capabilities, and other features of the plugin.
+
+By using this plugin, customers will have a better experience of your store, leading to increased satisfaction and sales.
